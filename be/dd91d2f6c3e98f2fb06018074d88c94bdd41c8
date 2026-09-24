@@ -1,0 +1,25 @@
+src/views/system/miniapp-user/index.vue
+  s_68054173c82cb6::t_1cf0bc29b33e83 5,182,195-197
+  s_68054173c82cb6::t_d5c25f75def8e1 1-4,6-181,183-194,198-299
+src/views/system/miniapp-user/hook.tsx
+  s_68054173c82cb6::t_d5c25f75def8e1 1-190,207-237
+  s_68054173c82cb6::t_1cf0bc29b33e83 191-206
+src/api/system/miniapp-user.ts
+  s_68054173c82cb6::t_1cf0bc29b33e83 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "bedd91d2f6c3e98f2fb06018074d88c94bdd41c8",
+  "prompts": {},
+  "sessions": {
+    "s_68054173c82cb6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d12b-ba58-7852-815f-5b35cba13f08",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wangxj <wangxiaojie@helipay.com>"
+    }
+  }
+}
